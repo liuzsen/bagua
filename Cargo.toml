@@ -2,5 +2,9 @@
 name = "bagua"
 version = "0.1.0"
 edition = "2021"
+repository = "https://github.com/liuzsen/bagua"
+description = "A smooth web framework"
+authors = ["liuzsen"]
+license = "Apache-2.0"
 
 [dependencies]
