@@ -5,3 +5,7 @@ version = 3
 [[package]]
 name = "bagua"
 version = "0.1.0"
+
+[[package]]
+name = "fulu"
+version = "0.1.0"
